@@ -1,0 +1,23 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "description": "Demostración de Github Actions",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesgomez00/GithubActions.git"
+  },
+  "author": "@moisesgomez00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesgomez00/GithubActions/issues"
+  },
+  "homepage": "https://github.com/moisesgomez00/GithubActions#readme",
+  "dependencies": {
+    "jest": "^29.2.1"
+  }
+}
